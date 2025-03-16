@@ -54,24 +54,14 @@
 
 ## 📜 Certifications  
 
-- <img src="https://images.credly.com/size/340x340/images/19819aa3-fe84-4eab-899a-57e9e022cb66/image.png" width="20" height="20"/> **Certified Quantum Computing Specialist (Honors)**  
-  - [View Credential](https://www.credly.com/badges/0997dc9e-fd48-4240-9c17-54c20e6fe0aa/linked_in_profile)  
+- <img src="https://images.credly.com/size/340x340/images/19819aa3-fe84-4eab-899a-57e9e022cb66/image.png" width="20" height="20"/> [**Certified Quantum Computing Specialist (Honors)**](https://www.credly.com/badges/0997dc9e-fd48-4240-9c17-54c20e6fe0aa/linked_in_profile)  
 
 - <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Z140i8n.svg" width="20" height="20"/> [**OSWP (Offensive Security Wireless Professional)**](https://www.credential.net/3ab63a87-dd1b-485d-a22a-12e1a4d1a751)  
-
 - <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PNPT.webp" width="20" height="20"/> [**PNPT (Practical Network Penetration Tester)**](https://www.credential.net/c5423b58-8449-41a3-bb3b-065419dceed7)  
-
-- <img src="https://t3.ftcdn.net/jpg/03/14/65/30/360_F_314653049_t5DNOcvnzj2oXKSuT9AtjUXBiy1Gucke.jpg" width="20" height="20"/> **A Pilot Certificate - Basic Operations**  
-  - [View Credential](https://www.linkedin.com/in/alen-peric/details/certifications/1741280910344/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo8AXMBkJwmbD1Y8o75cYqBAXBeKvAissA)  
-
-- <img src="https://images.seeklogo.com/logo-png/37/2/fanshawe-college-logo-png_seeklogo-377622.png" width="20" height="20"/> **Cybersecurity Advanced Diploma**  
-  - [View Credential](https://www.parchment.com/u/award/d1d4130de735fb9aeeda5e137327a8f1)  
-
-- <img src="https://www.first.org/identity/first-org.png" width="20" height="20"/> **FIRST CVSSv3.1 Certificate**  
-  - [View Credential](https://learning.first.org/certificates/77fb2b68ee1646b98d800923712e291a)  
-
-- <img src="https://miro.medium.com/v2/resize:fit:309/0*uBRs0iZPkIeOKdOm.png" width="20" height="20"/> **eJPT (eLearnSecurity Junior Penetration Tester)**  
-  - [View Credential](https://verified.elearnsecurity.com/certificates/65a1d03a-00f4-4f34-9da9-281d31098e4b)  
+- <img src="https://t3.ftcdn.net/jpg/03/14/65/30/360_F_314653049_t5DNOcvnzj2oXKSuT9AtjUXBiy1Gucke.jpg" width="20" height="20"/> [**A Pilot Certificate - Basic Operations**](https://www.linkedin.com/in/alen-peric/details/certifications/1741280910344/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo8AXMBkJwmbD1Y8o75cYqBAXBeKvAissA)  
+- <img src="https://images.seeklogo.com/logo-png/37/2/fanshawe-college-logo-png_seeklogo-377622.png" width="20" height="20"/> [**Cybersecurity Advanced Diploma**](https://www.parchment.com/u/award/d1d4130de735fb9aeeda5e137327a8f1)  
+- <img src="https://www.first.org/identity/first-org.png" width="20" height="20"/> [**FIRST CVSSv3.1 Certificate**](https://learning.first.org/certificates/77fb2b68ee1646b98d800923712e291a)  
+- <img src="https://miro.medium.com/v2/resize:fit:309/0*uBRs0iZPkIeOKdOm.png" width="20" height="20"/> [**eJPT (eLearnSecurity Junior Penetration Tester)**](https://verified.elearnsecurity.com/certificates/65a1d03a-00f4-4f34-9da9-281d31098e4b)  
 
 
 ---
