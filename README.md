@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alen-peric/" target="_blank">
-    <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="60"/>
   </a>
   <a href="mailto:alenperic@protonmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/2560px-ProtonMail_logo.svg.png" width="60"/>
