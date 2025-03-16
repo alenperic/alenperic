@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=alenperic&label=Profile%20views&color=0e75b6&style=flat" alt="alenperic" />
 </p>
 
+- 🛡 **Senior Intelligence Analyst at CrowdStrike**  
 - 🔍 Specializing in **Threat Intelligence, Penetration Testing, and Cybersecurity Research**  
 - 📝 Writing about **Threat Actor Analysis, Phishing Kits, and Post-Quantum Security**  
 - 🚀 Active in **CTFs, Open-Source Security Tools, and Dark Web Investigations**  
@@ -35,15 +36,14 @@
   <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="Tor" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Kali-linux-logo.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco IOS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/paloaltonetworks/paloaltonetworks-icon.svg" alt="Palo Alto Networks" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/TuxFlat.svg" alt="Ubuntu Server" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_server_2012_logo.svg" alt="Windows Server" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Proxmox_VE_logo.svg" alt="Proxmox" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" alt="TryHackMe" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://www.offsec.com/wp-content/uploads/2022/05/msf-logo-orange-1.png" alt="Metasploit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Palo_Alto_Networks_Logo.svg" alt="Palo Alto Networks" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Ubuntu_logo.png" alt="Ubuntu Server" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Windows_Server_logo.png" alt="Windows Server" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proxmox_VE_Logo.svg" alt="Proxmox" width="40" height="40"/>
+  <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/>
 </p>
 
 ---
