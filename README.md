@@ -27,74 +27,58 @@
 
 ## 🛠 Skills & Technologies  
 
-### 🔧 Tools & Technologies  
+### 🔥 Cybersecurity & Threat Intelligence  
+
+<p align="left">
+  <img src="https://www.crowdstrike.com/wp-content/uploads/2022/06/favicon.ico" alt="CrowdStrike" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/R/recorded-future-logo-8E3E0363D0-seeklogo.com.png" alt="Recorded Future" width="40" height="40"/>
+  <img src="https://www.zerofox.com/wp-content/uploads/2023/02/cropped-favicon-192x192.png" alt="ZeroFox" width="40" height="40"/>
+  <img src="https://www.threatconnect.com/wp-content/themes/threatconnect/assets/images/favicon.ico" alt="ThreatConnect" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/IBM_Q_Radar.png" alt="IBM Qradar" width="40" height="40"/>
+  <img src="https://www.tenable.com/sites/all/themes/tenable/favicon.ico" alt="Nessus" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Nmap_logo.png" alt="Nmap" width="40" height="40"/>
+  <img src="https://www.rapid7.com/favicon.ico" alt="Metasploit" width="40" height="40"/>
+  <img src="https://www.splunk.com/favicon.ico" alt="Splunk" width="40" height="40"/>
+  <img src="https://www.suricata.io/wp-content/uploads/2020/06/favicon.ico" alt="Suricata" width="40" height="40"/>
+  <img src="https://www.paloaltonetworks.com/content/dam/paloaltonetworks/images/icons/favicon.ico" alt="Palo Alto Networks" width="40" height="40"/>
+  <img src="https://www.pfsense.org/favicon.ico" alt="pfSense" width="40" height="40"/>
+  <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="40" height="40"/>
+</p>
+
+---
+
+### 💻 Programming & Development  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="Tor" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://www.offsec.com/wp-content/uploads/2022/05/msf-logo-orange-1.png" alt="Metasploit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Three.js_Icon.svg" alt="Three.js" width="40" height="40"/>
+</p>
+
+---
+
+### 🏴‍☠️ Operating Systems & Infrastructure  
+
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali-linux-logo.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Palo_Alto_Networks_Logo.png/600px-Palo_Alto_Networks_Logo.png" alt="Palo Alto Networks" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Ubuntu Server" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Microsoft_Windows_Server_Logo.svg" alt="Windows Server" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proxmox_VE_Logo.svg" alt="Proxmox" width="40" height="40"/>
-  <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://www.debian.org/logos/openlogo-nd-100.png" alt="Debian" width="40" height="40"/>
 </p>
 
 ---
 
-### 🔍 Additional Skills (No Icons Available)  
+## 📜 Certifications  
 
-- **APT Tracking & Analysis**  
-- **Cyber Threat Intelligence (CTI) & OSINT**  
-- **Deep & Dark Web Monitoring**  
-- **Penetration Testing & Red Teaming**  
-- **Large Language Models (LLM) Security**  
-- **Incident Handling & Response**  
-- **Cryptography & Linux Hardening**  
-- **Reverse Engineering & Data Forensics**  
-
----
-
-## 🚀 Featured Projects  
-
-Here are some of my key cybersecurity and automation projects:
-
-- 🦠 [**Phish-Hunter**](https://github.com/alenperic/Phish-Hunter) - Automated tool for domain integrity monitoring & phishing detection.
-- 🔐 [**SSH Post-Quantum Cryptography Upgrade**](https://github.com/alenperic/SSH-Post-Quantum-Cryptography-Upgrade-Script) - Secure migration of SSH keys to post-quantum cryptography.
-- 🌍 [**De-cloaking Geo-Filtering Websites**](https://github.com/alenperic/De-cloaking-Geo-Filtering-Websites) - Bypassing geo-filtered content restrictions.
-- 🏴‍☠️ [**Darkweb Downloader**](https://github.com/alenperic/Darkweb-Downloader) - Secure & anonymous downloads from the dark web using Tor.
-- 🛠 [**LogScale Query Optimizer**](https://github.com/alenperic/LogScale-Query-Optimizing-Tool) - Enhances LogScale queries with real-time feedback.
-
-🔗 See all my projects [here](https://github.com/alenperic?tab=repositories).
-
----
-
-## 📜 Certifications & Achievements  
-
-- ✅ **OffSec Wireless Professional (OSWP)**  
-- ✅ **Practical Network Penetration Tester (PNPT)**  
-- ✅ **eLearnSecurity Junior Penetration Tester (eJPT)**  
+- ✅ **OSWP (Offensive Security Wireless Professional)**  
+- ✅ **PNPT (Practical Network Penetration Tester)**  
+- ✅ **eJPT (eLearnSecurity Junior Penetration Tester)**  
 - ✅ **Certified Quantum Computing Specialist (Honors)**  
-- ✅ **Cybersecurity Advanced Diploma (Fanshawe College)**  
-- ✅ **FIRST CVSSv3.1 Certification**  
-
----
-
-## 📊 GitHub Stats & Activity  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alenperic&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenperic&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 ---
 
