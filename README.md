@@ -34,7 +34,6 @@
 ## 🛠 Skills & Technologies
 
 <p align="left">
-  <!-- Cybersecurity & Threat Intelligence Tools -->
   <img src="https://seeklogo.com/images/C/crowdstrike-logo-4EE777D7FD-seeklogo.com.png" alt="CrowdStrike" width="40" height="40"/>
   <img src="https://go.recordedfuture.com/hs-fs/hubfs/Square%20Logo%20-%20Digital%20(RGB)%20-%20Recorded%20Future%20Blue.png?width=1130&height=949&name=Square%20Logo%20-%20Digital%20(RGB)%20-%20Recorded%20Future%20Blue.png" alt="Recorded Future" width="40" height="40"/>
   <img src="https://content.zerofox.com/wp-content/uploads/2024/04/zerofox-icon-696x696-1.png" alt="ZeroFox" width="40" height="40"/>
@@ -45,20 +44,14 @@
   <img src="https://suricata.io/wp-content/uploads/2023/09/Suricata_logo_600x600-1.png" alt="Suricata" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" alt="Palo Alto Networks" width="40" height="40"/>
   <img src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" alt="pfSense" width="40" height="40"/>
-  
-  <!-- Programming & Development -->
   <img src="https://onecode.co.il/wp-content/uploads/2021/11/three-js-logo.png" alt="Three.js" width="40" height="40"/>
   <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="Node.js" width="40" height="40"/>
-  
-  <!-- Operating Systems & Infrastructure -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/windows-server-2-logo-png-transparent.png" alt="Windows Server" width="40" height="40"/>
-  
-  <!-- Emerging Technologies & Generative AI -->
-  <img src="https://companiesmarketcap.com/img/company-logos/256/QBTS.png" alt="D-Wave" width="40" height="40"/>
+  <img src="https://companieslogo.com/img/orig/QBTS-dfc9fb9b.png?t=1720244493" alt="D-Wave" width="40" height="40"/>
   <img src="https://images.seeklogo.com/logo-png/51/2/anthropic-icon-logo-png_seeklogo-515014.png" alt="Anthropic" width="40" height="40"/>
-  <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Meta-ai-logo.png" alt="LLaMA" width="40" height="40"/>
   <img src="https://www.pngall.com/wp-content/uploads/16/Google-Gemini-Logo-Transparent.png" alt="Gemini" width="40" height="40"/>
+  <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Meta-ai-logo.png" alt="LLaMA" width="40" height="40"/>
 </p>
 
 ---
