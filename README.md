@@ -49,7 +49,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/windows-server-2-logo-png-transparent.png" alt="Windows Server" width="40" height="40"/>
   <img src="https://companieslogo.com/img/orig/QBTS-dfc9fb9b.png?t=1720244493" alt="D-Wave" width="40" height="40"/>
-  <img src="[https://images.seeklogo.com/logo-png/51/2/anthropic-icon-logo-png_seeklogo-515014.png](https://images.seeklogo.com/logo-png/51/2/anthropic-icon-logo-png_seeklogo-515014.png)" alt="Anthropic" width="40" height="40"/>
+  <img src="https://companieslogo.com/img/orig/anthropic-49a0ad78.png?t=1720244494" alt="Anthropic" width="40" height="40"/>
   <img src="https://www.pngall.com/wp-content/uploads/16/Google-Gemini-Logo-Transparent.png" alt="Gemini" width="40" height="40"/>
   <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Meta-ai-logo.png" alt="LLaMA" width="40" height="40"/>
 </p>
