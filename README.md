@@ -37,12 +37,12 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://www.offsec.com/wp-content/uploads/2022/05/msf-logo-orange-1.png" alt="Metasploit" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Palo_Alto_Networks_Logo.svg" alt="Palo Alto Networks" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Ubuntu_logo.png" alt="Ubuntu Server" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Windows_Server_logo.png" alt="Windows Server" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali-linux-logo.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Palo_Alto_Networks_Logo.png/600px-Palo_Alto_Networks_Logo.png" alt="Palo Alto Networks" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Ubuntu Server" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Microsoft_Windows_Server_Logo.svg" alt="Windows Server" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proxmox_VE_Logo.svg" alt="Proxmox" width="40" height="40"/>
-  <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" width="40" height="40"/>
+  <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/>
 </p>
 
