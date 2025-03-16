@@ -7,8 +7,8 @@
 
 - 🛡 **Senior Intelligence Analyst at CrowdStrike**  
 - 🔍 Specializing in **Threat Intelligence, Penetration Testing, and Cybersecurity Research**  
-- 📝 Writing about **Threat Actor Analysis, Phishing Kits, and Post‑Quantum Security**  
-- 🚀 Active in **CTFs, Open‑Source Security Tools, and Dark Web Investigations**  
+- 📝 Writing about **Threat Actor Analysis, Phishing Kits, and Post-Quantum Security**  
+- 🚀 Active in **CTFs, Open-Source Security Tools, and Dark Web Investigations**  
 - 📜 Certified: **OSWP, PNPT, eJPT, Certified Quantum Computing Specialist**  
 - ⚡ Currently working on **security automation, phishing detection, and advanced threat monitoring**  
 - 🎯 Always learning **OSCP, Red Teaming, and Advanced Malware Analysis**  
@@ -18,15 +18,9 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alen-peric/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="https://github.com/alenperic" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>&nbsp;
-  <a href="mailto:alenperic@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/alen-peric/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/alenperic" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:alenperic@protonmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -56,14 +50,19 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
 
-- ✅ **OSWP (Offensive Security Wireless Professional)**  
-- ✅ **PNPT (Practical Network Penetration Tester)**  
-- ✅ **eJPT (eLearnSecurity Junior Penetration Tester)**  
-- ✅ **Certified Quantum Computing Specialist (Honors)**  
+- ✅ **[Certified Quantum Computing Specialist (Honors)](https://www.credly.com/badges/0997dc9e-fd48-4240-9c17-54c20e6fe0aa/linked_in_profile)**  
+- ✅ **[OSWP (Offensive Security Wireless Professional)](https://www.credential.net/3ab63a87-dd1b-485d-a22a-12e1a4d1a751)**  
+- ✅ **[PNPT (Practical Network Penetration Tester)](https://www.credential.net/c5423b58-8449-41a3-bb3b-065419dceed7)**  
+- ✅ **[A Pilot Certificate - Basic Operations](https://www.linkedin.com/in/alen-peric/details/certifications/1741280910344/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo8AXMBkJwmbD1Y8o75cYqBAXBeKvAissA)**  
+- ✅ **[Cybersecurity Advanced Diploma](https://www.parchment.com/u/award/d1d4130de735fb9aeeda5e137327a8f1)**  
+- ✅ **[FIRST CVSSv3.1 Certificate](https://learning.first.org/certificates/77fb2b68ee1646b98d800923712e291a)**  
+- ✅ **[eJPT (eLearnSecurity Junior Penetration Tester)](https://verified.elearnsecurity.com/certificates/65a1d03a-00f4-4f34-9da9-281d31098e4b)**  
 
 ---
 
 🔍 **Looking for security insights or collaboration?**  
-📩 Reach out anytime—I'm always open to discussing cybersecurity research, open‑source tools, and threat intelligence innovations!
+📩 Reach out anytime—I'm always open to discussing cybersecurity research, open-source tools, and threat intelligence innovations!
+
+---
