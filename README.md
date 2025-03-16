@@ -57,11 +57,9 @@
 - <img src="https://images.credly.com/size/340x340/images/19819aa3-fe84-4eab-899a-57e9e022cb66/image.png" width="20" height="20"/> **Certified Quantum Computing Specialist (Honors)**  
   - [View Credential](https://www.credly.com/badges/0997dc9e-fd48-4240-9c17-54c20e6fe0aa/linked_in_profile)  
 
-- <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Z140i8n.svg" width="20" height="20"/> **OSWP (Offensive Security Wireless Professional)**  
-  - [View Credential](https://www.credential.net/3ab63a87-dd1b-485d-a22a-12e1a4d1a751)  
+- <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Z140i8n.svg" width="20" height="20"/> [**OSWP (Offensive Security Wireless Professional)**](https://www.credential.net/3ab63a87-dd1b-485d-a22a-12e1a4d1a751)  
 
-- <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PNPT.webp" width="20" height="20"/> **PNPT (Practical Network Penetration Tester)**  
-  - [View Credential](https://www.credential.net/c5423b58-8449-41a3-bb3b-065419dceed7)  
+- <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PNPT.webp" width="20" height="20"/> [**PNPT (Practical Network Penetration Tester)**](https://www.credential.net/c5423b58-8449-41a3-bb3b-065419dceed7)  
 
 - <img src="https://t3.ftcdn.net/jpg/03/14/65/30/360_F_314653049_t5DNOcvnzj2oXKSuT9AtjUXBiy1Gucke.jpg" width="20" height="20"/> **A Pilot Certificate - Basic Operations**  
   - [View Credential](https://www.linkedin.com/in/alen-peric/details/certifications/1741280910344/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo8AXMBkJwmbD1Y8o75cYqBAXBeKvAissA)  
