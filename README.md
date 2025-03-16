@@ -31,64 +31,39 @@
 
 ---
 
-## 🛠 Skills & Technologies  
-
-### 🔥 Cybersecurity & Threat Intelligence  
+## 🛠 Skills & Technologies
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/crowdstrike" alt="CrowdStrike" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/recorded-future" alt="Recorded Future" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/54/ZeroFox_Logo.png" alt="ZeroFox" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/ThreatConnect_Logo.png" alt="ThreatConnect" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ibm" alt="IBM QRadar" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Nessus_Logo.svg" alt="Nessus" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Nmap_logo.png" alt="Nmap" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Suricata_Logo.png" alt="Suricata" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/palo-alto-networks" alt="Palo Alto Networks" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/PfSense_logo.svg" alt="pfSense" width="40" height="40"/>
+  <!-- Cybersecurity & Threat Intelligence Tools -->
+  <img src="https://seeklogo.com/images/C/crowdstrike-logo-4EE777D7FD-seeklogo.com.png" alt="CrowdStrike" width="40" height="40"/>
+  <img src="https://go.recordedfuture.com/hs-fs/hubfs/Square%20Logo%20-%20Digital%20(RGB)%20-%20Recorded%20Future%20Blue.png?width=1130&height=949&name=Square%20Logo%20-%20Digital%20(RGB)%20-%20Recorded%20Future%20Blue.png" alt="Recorded Future" width="40" height="40"/>
+  <img src="https://content.zerofox.com/wp-content/uploads/2024/04/zerofox-icon-696x696-1.png" alt="ZeroFox" width="40" height="40"/>
+  <img src="https://threatconnect.com/wp-content/uploads/2022/11/ThreatConnect-Logo-Logo-Mark-RGB-500px-whitespace-1.png" alt="ThreatConnect" width="40" height="40"/>
+  <img src="https://img.stackshare.io/service/12032/qradar.png" alt="IBM QRadar" width="40" height="40"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.38522.982b9689-4efc-4e73-9ac8-ed206b854dcd.e419f665-5562-456d-92a6-7f26ced72d52.1b14fc39-fa3b-474c-a164-e90446af829b" alt="Nessus" width="40" height="40"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
+  <img src="https://suricata.io/wp-content/uploads/2023/09/Suricata_logo_600x600-1.png" alt="Suricata" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" alt="Palo Alto Networks" width="40" height="40"/>
+  <img src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" alt="pfSense" width="40" height="40"/>
+  
+  <!-- Programming & Development -->
+  <img src="https://onecode.co.il/wp-content/uploads/2021/11/three-js-logo.png" alt="Three.js" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="Node.js" width="40" height="40"/>
+  
+  <!-- Operating Systems & Infrastructure -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/windows-server-2-logo-png-transparent.png" alt="Windows Server" width="40" height="40"/>
+  
+  <!-- Emerging Technologies & Generative AI -->
+  <img src="https://companiesmarketcap.com/img/company-logos/256/QBTS.png" alt="D-Wave" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/51/2/anthropic-icon-logo-png_seeklogo-515014.png" alt="Anthropic" width="40" height="40"/>
+  <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Meta-ai-logo.png" alt="LLaMA" width="40" height="40"/>
+  <img src="https://www.pngall.com/wp-content/uploads/16/Google-Gemini-Logo-Transparent.png" alt="Gemini" width="40" height="40"/>
 </p>
 
 ---
 
-### 💻 Programming & Development  
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/node-dot-js" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/three-dot-js" alt="Three.js" width="40" height="40"/>
-</p>
-
----
-
-### 🏴‍☠️ Operating Systems & Infrastructure  
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/kali-linux" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/windows" alt="Windows Server" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
-</p>
-
----
-
-### 🚀 Emerging Technologies & Generative AI  
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/D-Wave_Systems_logo.svg" alt="D‑Wave" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoft-azure" alt="Azure" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Anthropic_logo.svg" alt="Anthropic" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meta_LLaMA_logo.svg" alt="LLaMA" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Google_Gemini_logo.svg" alt="Gemini" width="40" height="40"/>
-</p>
-
----
-
-## 📜 Certifications  
+## 📜 Certifications
 
 - ✅ **OSWP (Offensive Security Wireless Professional)**  
 - ✅ **PNPT (Practical Network Penetration Tester)**  
