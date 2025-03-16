@@ -30,19 +30,16 @@
 ### 🔥 Cybersecurity & Threat Intelligence  
 
 <p align="left">
-  <img src="https://www.crowdstrike.com/wp-content/uploads/2022/06/favicon.ico" alt="CrowdStrike" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/CrowdStrike_Logo.png" alt="CrowdStrike" width="40" height="40"/>
   <img src="https://seeklogo.com/images/R/recorded-future-logo-8E3E0363D0-seeklogo.com.png" alt="Recorded Future" width="40" height="40"/>
-  <img src="https://www.zerofox.com/wp-content/uploads/2023/02/cropped-favicon-192x192.png" alt="ZeroFox" width="40" height="40"/>
-  <img src="https://www.threatconnect.com/wp-content/themes/threatconnect/assets/images/favicon.ico" alt="ThreatConnect" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/IBM_Q_Radar.png" alt="IBM Qradar" width="40" height="40"/>
+  <img src="https://assets.zerofox.com/img/favicon.ico" alt="ZeroFox" width="40" height="40"/>
+  <img src="https://www.threatconnect.com/wp-content/uploads/2020/10/cropped-favicon-192x192.png" alt="ThreatConnect" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/IBM_Logo.svg" alt="IBM Qradar" width="40" height="40"/>
   <img src="https://www.tenable.com/sites/all/themes/tenable/favicon.ico" alt="Nessus" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Nmap_logo.png" alt="Nmap" width="40" height="40"/>
-  <img src="https://www.rapid7.com/favicon.ico" alt="Metasploit" width="40" height="40"/>
-  <img src="https://www.splunk.com/favicon.ico" alt="Splunk" width="40" height="40"/>
-  <img src="https://www.suricata.io/wp-content/uploads/2020/06/favicon.ico" alt="Suricata" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Suricata_Logo.png" alt="Suricata" width="40" height="40"/>
   <img src="https://www.paloaltonetworks.com/content/dam/paloaltonetworks/images/icons/favicon.ico" alt="Palo Alto Networks" width="40" height="40"/>
-  <img src="https://www.pfsense.org/favicon.ico" alt="pfSense" width="40" height="40"/>
-  <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="40" height="40"/>
+  <img src="https://www.netgate.com/hubfs/Netgate-Primary-Logo-RGB-1.png" alt="pfSense" width="40" height="40"/>
 </p>
 
 ---
