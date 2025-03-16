@@ -17,9 +17,17 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alen-peric/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/alenperic" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:alenperic@protonmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+## 🔗 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alen-peric/" target="_blank">
+    <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png" width="60"/>
+  </a>
+  <a href="mailto:alenperic@protonmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/2560px-ProtonMail_logo.svg.png" width="60"/>
+  </a>
+</p>
+
 </p>
 
 ---
@@ -48,8 +56,6 @@
 </p>
 
 ---
-
-## 📜 Certifications  
 
 ## 📜 Certifications  
 
