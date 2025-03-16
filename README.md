@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [https://alenperic.com](Alen Peric)</h1>
+<h1 align="center">Hey there 👋, I'm Alen Peric</h1>
 <h3 align="center">Cyber Threat Intelligence Specialist | Penetration Tester | Security Automation Engineer</h3>
 
 <p align="left">
