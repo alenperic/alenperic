@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=alenperic&label=Profile%20views&color=0e75b6&style=flat" alt="alenperic" />
 </p>
 
-- 🛡 **Senior Intelligence Analyst at CrowdStrike**  
 - 🔍 Specializing in **Threat Intelligence, Penetration Testing, and Cybersecurity Research**  
 - 📝 Writing about **Threat Actor Analysis, Phishing Kits, and Post-Quantum Security**  
 - 🚀 Active in **CTFs, Open-Source Security Tools, and Dark Web Investigations**  
