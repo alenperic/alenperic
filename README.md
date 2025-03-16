@@ -34,11 +34,11 @@
 ## 🛠 Skills & Technologies
 
 <p align="left">
-  <img src="https://seeklogo.com/images/C/crowdstrike-logo-4EE777D7FD-seeklogo.com.png" alt="CrowdStrike" width="40" height="40"/>
+  <img src="https://images.store.crowdstrike.com/9748z14dd5zg/6m7LqQ9IFmkoQYbEh7jAYB/dc3822f96d8fd9824b6cb0fe53331694/Falcon_Fusion_for_Microsoft_Teams_logo" alt="CrowdStrike" width="40" height="40"/>
   <img src="https://go.recordedfuture.com/hs-fs/hubfs/Square%20Logo%20-%20Digital%20(RGB)%20-%20Recorded%20Future%20Blue.png?width=1130&height=949&name=Square%20Logo%20-%20Digital%20(RGB)%20-%20Recorded%20Future%20Blue.png" alt="Recorded Future" width="40" height="40"/>
   <img src="https://content.zerofox.com/wp-content/uploads/2024/04/zerofox-icon-696x696-1.png" alt="ZeroFox" width="40" height="40"/>
   <img src="https://threatconnect.com/wp-content/uploads/2022/11/ThreatConnect-Logo-Logo-Mark-RGB-500px-whitespace-1.png" alt="ThreatConnect" width="40" height="40"/>
-  <img src="https://img.stackshare.io/service/12032/qradar.png" alt="IBM QRadar" width="40" height="40"/>
+  <img src="https://i0.wp.com/13.38.13.144/wp-content/uploads/2022/10/qradar.png?resize=640%2C640" alt="IBM QRadar" width="40" height="40"/>
   <img src="https://store-images.s-microsoft.com/image/apps.38522.982b9689-4efc-4e73-9ac8-ed206b854dcd.e419f665-5562-456d-92a6-7f26ced72d52.1b14fc39-fa3b-474c-a164-e90446af829b" alt="Nessus" width="40" height="40"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
   <img src="https://suricata.io/wp-content/uploads/2023/09/Suricata_logo_600x600-1.png" alt="Suricata" width="40" height="40"/>
