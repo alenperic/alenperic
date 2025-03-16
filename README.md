@@ -17,14 +17,10 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-## 🔗 Connect With Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alen-peric/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="60"/>
-  </a>
+  <a href="https://www.linkedin.com/in/alen-peric/" target="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alenperic@protonmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/2560px-ProtonMail_logo.svg.png" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/2560px-ProtonMail_logo.svg.png" width="110"/>
   </a>
 </p>
 
