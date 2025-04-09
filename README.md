@@ -1,15 +1,15 @@
  <h1 align="center">Hey there 👋, I'm Alen Peric</h1>
-<h3 align="center">Cyber Threat Intelligence Specialist | Penetration Tester | Security Automation Engineer</h3>
+<h3 align="center">AI Enthusiast | Cyber Threat Intelligence Specialist | Penetration Tester</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alenperic&label=Profile%20views&color=0e75b6&style=flat" alt="alenperic" />
 </p>
 
-- 🔍 Specializing in **Threat Intelligence, Penetration Testing, and Cybersecurity Research**  
-- 📝 Writing about **Threat Actor Analysis, Phishing Kits, and Post-Quantum Security**  
-- 🚀 Active in **CTFs, Open-Source Security Tools, and Dark Web Investigations**  
-- 📜 Certified: **OSWP, PNPT, eJPT, Certified Quantum Computing Specialist**  
-- ⚡ Currently working on **security automation, phishing detection, and advanced threat monitoring**  
+- 🔍 Specializing in **AI/ML frameworks, Cyber Threat Intelligence, Penetration Testing, and Hardware**  
+- 📝 Writing about **AI frameworks, Threat Intel, and Post-Quantum Security**  
+- 🚀 Active in **AI model quantization, CTFs, Open-Source Security Tools, and Dark Web Investigations**  
+- 📜 Certified: **AI , Quantum Computing, Wifi Pentesting, Practical Pentesting and OSINT**  
+- ⚡ Currently working on **Building an AI lab, post quantum encryption, phishing detection, and advanced threat monitoring**  
 - 🎯 Always learning **OSCP, Red Teaming, and Advanced Malware Analysis**  
 
 ---
