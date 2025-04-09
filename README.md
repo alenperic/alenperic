@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Alen Peric</h1>
+ <h1 align="center">Hey there 👋, I'm Alen Peric</h1>
 <h3 align="center">Cyber Threat Intelligence Specialist | Penetration Tester | Security Automation Engineer</h3>
 
 <p align="left">
@@ -54,6 +54,8 @@
 ---
 
 ## 📜 Certifications  
+
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="20" height="20"/> [**Azure AI Fundamentals**](https://learn.microsoft.com/en-us/users/alenperic/credentials/95094fa24f61b78e)  
 
   <img src="https://images.credly.com/size/340x340/images/19819aa3-fe84-4eab-899a-57e9e022cb66/image.png" width="20" height="20"/> [**Certified Quantum Computing Specialist (Honors)**](https://www.credly.com/badges/0997dc9e-fd48-4240-9c17-54c20e6fe0aa/linked_in_profile)  
   
