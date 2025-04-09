@@ -65,7 +65,7 @@
   
   <img src="https://miro.medium.com/v2/resize:fit:309/0*uBRs0iZPkIeOKdOm.png" width="20" height="20"/> [**eJPT (eLearnSecurity Junior Penetration Tester)**](https://verified.elearnsecurity.com/certificates/65a1d03a-00f4-4f34-9da9-281d31098e4b)  
 
-  <img src="https://fanshawe-static.bookware3000.ca/item/large/d6/d63df0f02319eba1c308fa7cde6efba77a0ddb76b16cd7b65d19825b72c6d099.png" width="20" height="20"/> [**Cybersecurity Advanced Diploma**](https://www.parchment.com/u/award/d1d4130de735fb9aeeda5e137327a8f1) 
+  <img src="https://fanshawe-static.bookware3000.ca/item/large/d6/d63df0f02319eba1c308fa7cde6efba77a0ddb76b16cd7b65d19825b72c6d099.png" width="20" height="20"/> [**Cybersecurity Advanced College Diploma**](https://www.parchment.com/u/award/d1d4130de735fb9aeeda5e137327a8f1) 
 
 
 ---
